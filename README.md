@@ -1,2 +1,2 @@
-# HTML5
- Repositório para HTML5
+# Desenvolvimento Frontend
+ Este repositório é para projetos de páginas Web responsivas
