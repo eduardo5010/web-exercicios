@@ -1,2 +1,2 @@
-# Desenvolvimento Frontend
- Este repositório é para projetos de páginas Web responsivas
+# FRONTEND DEVELOPMENT
+ Repository for static web pages exercises.
